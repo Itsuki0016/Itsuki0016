@@ -1,4 +1,4 @@
-# Itsuki256
+# 村田一生
 
 Welcome to my GitHub profile! Here are some of my projects and interests.
 
